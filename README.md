@@ -13,6 +13,10 @@ I built this as a learning project, so the design favors simplicity over
 features. No database for metrics, no external services, no agents to install
 on other machines. Just one binary, one file, one dashboard.
 
+
+<img width="1317" height="915" alt="Sentinel" src="https://github.com/user-attachments/assets/9e4b2cf3-a922-4cfb-a254-b6cf6efae12e" />
+
+
 ---
 
 ## How it works
@@ -47,8 +51,8 @@ sudo zypper install gcc make cmake python3 python3-pip ca-certificates
 
 ## Installation
 ```bash
-git clone https://github.com/mreleeam/sentinel.git
-cd Sentinel
+git clone https://github.com/mreleeam/linux-sentinel.git
+cd linux-sentinel
 ./install.sh
 ```
 ---
